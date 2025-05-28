@@ -16,3 +16,5 @@
 ## Slides
 - 03.19.2025 [Tasking in OpenMP](slides/tasking_in_OpenMP.pdf)
 - 04.02.2025 [Tasking in OpenACC](slides/tasking_in_OpenACC.pdf)
+- 05.28.2025 [Tasking in StarPU](slides/tasking_in_StarPU.pdf)
+- 05.28.2025 [Tasking in StarPU Fortran Examples](slides/tasking_in_StarPU_fortran_examples.pdf)
